@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chinese Vocabulary Trainer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="main-container">
+        <h1>Chinese Vocabulary Trainer</h1>
+        
+        <div class="quiz-card">
+            <div id="question-area">
+                <p id="pinyin-display" class="pinyin"></p>
+                <h2 id="question-display" class="character">你好</h2>
+            </div>
+
+            <div id="answer-area">
+                <input type="text" id="answer-input" placeholder="Type meaning here..." autocomplete="off">
+                <button id="submit-btn">Check</button>
+            </div>
+
+            <div id="feedback-area">
+                <p id="feedback-message"> </p>
+            </div>
+        </div>
+
+        <div class="controls">
+            <p>Score: <span id="score-display">0</span></p>
+            <button id="switch-mode-btn">Switch to: Meaning ➔ Character</button>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
