@@ -204,7 +204,7 @@ function handleCorrectAnswer() {
     setTimeout(() => {
         currentWordIndex++;
         loadNextWord();
-    }, 1200); // Increased delay slightly to allow time to see pinyin
+    }, 2400); // Increased delay slightly to allow time to see pinyin
 }
 
 function handleWrongAnswer() {
@@ -229,7 +229,7 @@ function handleWrongAnswer() {
         setTimeout(() => {
             currentWordIndex++;
             loadNextWord();
-        }, 3000);
+        }, 6000);
 
     } else {
         feedbackMessage.textContent = `Incorrect. Try again. (${wrongAttempts}/3)`;
