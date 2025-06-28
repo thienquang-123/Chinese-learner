@@ -16,7 +16,7 @@ const vocab = [
     { chinese: "家", pinyin: "jiā", english: ["home", "family"], vietnamese: ["nhà", "gia đình"] },
     { chinese: "吃", pinyin: "chī", english: ["eat", "to eat"], vietnamese: ["ăn"] },
     { chinese: "人", pinyin: "rén", english: ["human", "man"], vietnamese: ["nhân", "người", "con người"] },
-    { chinese: "从", pinyin: "cóng", english: ["from"], vietnamese: ["từ (bắt đầu)"] },
+    { chinese: "从", pinyin: "cóng", english: ["from"], vietnamese: ["từ"] },
     { chinese: "个", pinyin: "ge", english: ["universal measured word"], vietnamese: ["từ dùng để đếm", "cái", "quả", "con"] },
     { chinese: "个人", pinyin: "gè rén", english: ["individual", "personal"], vietnamese: ["riêng tư", "cá nhân", "một mình"] },
     { chinese: "大", pinyin: "dà", english: ["big"], vietnamese: ["to", "lớn"] },
