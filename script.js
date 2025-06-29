@@ -111,7 +111,7 @@ const vocab = [
     { chinese: "右边", pinyin: "yòu biān", english: ["right side"], vietnamese: ["bên phải"] },
     { chinese: "上边", pinyin: "shàng biān", english: ["top side"], vietnamese: ["bên trên"] },
     { chinese: "下边", pinyin: "xià biān", english: ["bottom side"], vietnamese: ["bên dưới"] },
-    { chinese: "女", pinyin: "nǚ", english": ["woman", "female"], vietnamese": ["nữ", "đàn bà", "con gái"] },
+    { chinese: "女", pinyin: "nǚ", english: ["woman", "female"], vietnamese: ["nữ", "đàn bà", "con gái"] },
     { chinese: "如", pinyin: "rú", english": ["if"], vietnamese": ["như"] },
     { chinese: "好", pinyin: "hǎo", english": ["good", "well", "fine"], vietnamese": ["tốt", "được", "hảo"] },
     { chinese: "好人", pinyin: "hǎo rén", english: ["good person"], vietnamese: ["người tốt"] },
