@@ -116,7 +116,7 @@ const vocab = [
     { chinese: "好", pinyin: "hǎo", english: ["good", "well", "fine"], vietnamese: ["tốt", "được", "hảo"] },
     { chinese: "好人", pinyin: "hǎo rén", english: ["good person"], vietnamese: ["người tốt"] },
     { chinese: "好的", pinyin: "hǎo de", english: ["OK", "alright"], vietnamese: ["được thôi", "vâng ạ"] },
-    { chinese: "不好不坏", pinyin: "bù hǎo bù huài", english: ["not distinguish good or bad"], vietnamese: ["bất phân tốt xấu"] },
+    { chinese: "不分好坏", pinyin: "bù fēn hǎo huài", english: ["not distinguish good or bad"], vietnamese: ["bất phân tốt xấu"] },
     { chinese: "不如", pinyin: "bù rú", english: ["not as good as", "not equal to"], vietnamese: ["không bằng"] },
     { chinese: "儿女", pinyin: "ér nǚ", english: ["children", "sons and daughters"], vietnamese: ["con cái", "con trai và con gái"] },
     { chinese: "也", pinyin: "yě", english: ["also", "too"], vietnamese: ["cũng", "cũng vậy", "dã"] },
