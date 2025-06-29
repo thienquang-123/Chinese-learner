@@ -8,9 +8,13 @@ const vocab = [
     { chinese: "没关系", pinyin: "méi guānxi", english: ["it's ok", "it doesn't matter", "no problem"], vietnamese: ["không sao", "không có gì"] },
     { chinese: "是", pinyin: "shì", english: ["yes", "is", "are", "am"], vietnamese: ["là", "phải", "đúng"] },
     { chinese: "我", pinyin: "wǒ", english: ["i", "me"], vietnamese: ["tôi", "tớ"] },
+    { chinese: "我的", pinyin: "wǒ de", english: ["my", "mine"], vietnamese: ["của tôi"] },
     { chinese: "你", pinyin: "nǐ", english: ["you"], vietnamese: ["bạn", "cậu"] },
+    { chinese: "你的", pinyin: "nǐ de", english: ["your", "yours"], vietnamese: ["của bạn"] },
     { chinese: "他", pinyin: "tā", english: ["he", "him"], vietnamese: ["anh ấy", "cậu ấy", "ông ấy"] },
+    { chinese: "他的", pinyin: "tā de", english: ["his"], vietnamese: ["của anh ấy"] },
     { chinese: "她", pinyin: "tā", english: ["she", "her"], vietnamese: ["cô ấy", "chị ấy", "bà ấy"] },
+    { chinese: "她的", pinyin: "tā de", english: ["her", "hers"], vietnamese: ["của cô ấy"] },
     { chinese: "我们", pinyin: "wǒmen", english: ["we", "us"], vietnamese: ["chúng tôi", "chúng ta"] },
     { chinese: "爱", pinyin: "ài", english: ["love", "to love"], vietnamese: ["yêu", "thích"] },
     { chinese: "家", pinyin: "jiā", english: ["home", "family"], vietnamese: ["nhà", "gia đình"] },
@@ -118,7 +122,13 @@ const vocab = [
     { chinese: "也", pinyin: "yě", english: ["also", "too"], vietnamese: ["cũng", "cũng vậy", "dã"] },
     { chinese: "地", pinyin: "dì", english: ["earth", "ground", "land"], vietnamese: ["đất", "mặt đất", "địa"] },
     { chinese: "地下", pinyin: "dì xià", english: ["underground"], vietnamese: ["dưới lòng đất", "ngầm"] },
-    { chinese: "天地", pinyin: "tiān dì", english: ["sky and earth", "the world"], vietnamese: ["trời đất", "thiên địa"] }
+    { chinese: "天地", pinyin: "tiān dì", english: ["sky and earth", "the world"], vietnamese: ["trời đất", "thiên địa"] },
+    { chinese: "有", pinyin: "yǒu", english: ["to have", "there is/are"], vietnamese: ["hữu", "có"] },
+    { chinese: "用", pinyin: "yòng", english: ["to use"], vietnamese: ["dụng", "dùng", "sử dụng"] },
+    { chinese: "用心", pinyin: "yòng xīn", english: ["attentive", "diligent", "with care"], vietnamese: ["dụng tâm", "chuyên tâm", "chú tâm", "tận tâm"] },
+    { chinese: "不用", pinyin: "bú yòng", english: ["don't need to", "no need"], vietnamese: ["không cần"] },
+    { chinese: "有用", pinyin: "yǒu yòng", english: ["useful"], vietnamese: ["hữu dụng", "có ích"] },
+    { chinese: "朋", pinyin: "péng", english: ["friend"], vietnamese: ["bằng", "bạn bè"] },
 ];
 
 // --- DOM ELEMENTS ---
