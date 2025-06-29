@@ -107,6 +107,18 @@ const vocab = [
     { chinese: "右边", pinyin: "yòu biān", english: ["right side"], vietnamese: ["bên phải"] },
     { chinese: "上边", pinyin: "shàng biān", english: ["top side"], vietnamese: ["bên trên"] },
     { chinese: "下边", pinyin: "xià biān", english: ["bottom side"], vietnamese: ["bên dưới"] },
+    { chinese: "女", pinyin: "nǚ", english": ["woman", "female"], vietnamese": ["nữ", "đàn bà", "con gái"] },
+    { chinese: "如", pinyin: "rú", english": ["if"], vietnamese": ["như"] },
+    { chinese: "好", pinyin: "hǎo", english": ["good", "well", "fine"], vietnamese": ["tốt", "được", "hảo"] },
+    { chinese: "好人", pinyin: "hǎo rén", english: ["good person"], vietnamese: ["người tốt"] },
+    { chinese: "好的", pinyin: "hǎo de", english: ["OK", "alright"], vietnamese: ["được thôi", "vâng ạ"] },
+    { chinese: "不好不坏", pinyin: "bù hǎo bù huài", english: ["not distinguish good or bad"], vietnamese: ["bất phân tốt xấu"] },
+    { chinese: "不如", pinyin: "bù rú", english: ["not as good as", "not equal to"], vietnamese: ["không bằng"] },
+    { chinese: "儿女", pinyin: "ér nǚ", english: ["children", "sons and daughters"], vietnamese: ["con cái", "con trai và con gái"] },
+    { chinese: "也", pinyin: "yě", english: ["also", "too"], vietnamese: ["cũng", "cũng vậy", "dã"] },
+    { chinese: "地", pinyin: "dì", english: ["earth", "ground", "land"], vietnamese: ["đất", "mặt đất", "địa"] },
+    { chinese: "地下", pinyin: "dì xià", english: ["underground"], vietnamese: ["dưới lòng đất", "ngầm"] },
+    { chinese: "天地", pinyin: "tiān dì", english: ["sky and earth", "the world"], vietnamese: ["trời đất", "thiên địa"] }
 ];
 
 // --- DOM ELEMENTS ---
