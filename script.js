@@ -25,7 +25,7 @@ const vocab = [
     { chinese: "个人", pinyin: "gè rén", english: ["individual", "personal"], vietnamese: ["riêng tư", "cá nhân", "một mình"] },
     { chinese: "大", pinyin: "dà", english: ["big"], vietnamese: ["to", "lớn", "đại"] },
     { chinese: "天", pinyin: "tiān", english: ["sky", "day"], vietnamese: ["bầu trời", "thiên", "ngày"] },
-    { chinese: "太", pinyin: "tài", english: ["too"], vietnamese: ["quá"] },
+    { chinese: "太", pinyin: "tài", english: ["too"], vietnamese: ["thái", "rất", "lắm", "quá"] },
     { chinese: "上", pinyin: "shàng", english: ["up", "above", "on", "over"], vietnamese: ["thượng"] },
     { chinese: "下", pinyin: "xià", english: ["down", "below", "under"], vietnamese: ["hạ"] },
     { chinese: "中", pinyin: "zhōng", english: ["middle", "center"], vietnamese: ["trung"] },
