@@ -130,6 +130,7 @@ const vocab = [
     { chinese: "有用", pinyin: "yǒu yòng", english: ["useful"], vietnamese: ["hữu dụng", "có ích"] },
     { chinese: "朋", pinyin: "péng", english: ["friend"], vietnamese: ["bằng", "bạn bè"] },
     { chinese: "门", pinyin: "mén", english: ["door", "gate"], vietnamese: ["môn", "cửa"] },
+    { chinese: "门口", pinyin: "mén kǒu", english: ["doorway"], vietnamese: ["cửa", "cổng"] },
     { chinese: "开门", pinyin: "kāi mén", english: ["open the door"], vietnamese: ["khai môn", "mở cửa"] },
     { chinese: "关门", pinyin: "guān mén", english: ["door", "gate"], vietnamese: ["quan môn", "đóng cửa"] },
     { chinese: "们", pinyin: "men", english: ["pluralizing suffix"], vietnamese: ["môn", "bọn", "các", "chúng"] },
