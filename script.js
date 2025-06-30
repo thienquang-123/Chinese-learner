@@ -129,6 +129,14 @@ const vocab = [
     { chinese: "不用", pinyin: "bú yòng", english: ["don't need to", "no need"], vietnamese: ["không cần"] },
     { chinese: "有用", pinyin: "yǒu yòng", english: ["useful"], vietnamese: ["hữu dụng", "có ích"] },
     { chinese: "朋", pinyin: "péng", english: ["friend"], vietnamese: ["bằng", "bạn bè"] },
+    { chinese: "门", pinyin: "mén", english: ["door", "gate"], vietnamese: ["môn", "cửa"] },
+    { chinese: "开门", pinyin: "kāi mén", english: ["open the door"], vietnamese: ["khai môn", "mở cửa"] },
+    { chinese: "关门", pinyin: "guān mén", english: ["door", "gate"], vietnamese: ["quan môn", "đóng cửa"] },
+    { chinese: "们", pinyin: "men", english: ["pluralizing suffix"], vietnamese: ["môn", "bọn", "các", "chúng"] },
+    { chinese: "你们", pinyin: "nǐ men", english: ["you"], vietnamese: ["các bạn"] },
+    { chinese: "他们", pinyin: "tā men", english: ["they", "them"], vietnamese: ["họ", "bọn chúng", "bọn họ"] },
+    { chinese: "问", pinyin: "wèn", english: ["ask", "to ask"], vietnamese: ["vấn", "hỏi"] },
+
 ];
 
 // --- DOM ELEMENTS ---
