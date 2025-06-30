@@ -1,11 +1,11 @@
 // --- VOCABULARY LIST ---
 const vocab = [
     { chinese: "你好", pinyin: "nǐ hǎo", english: ["hello", "hi"], vietnamese: ["xin chào", "chào bạn"] },
-    { chinese: "谢谢", pinyin: "xièxie", english: ["thank you", "thanks"], vietnamese: ["cảm ơn", "cám ơn"] },
-    { chinese: "不客气", pinyin: "bú kèqi", english: ["you're welcome", "you are welcome", "not at all"], vietnamese: ["không có gì", "đừng khách sáo"] },
-    { chinese: "再见", pinyin: "zàijiàn", english: ["goodbye", "bye"], vietnamese: ["tạm biệt"] },
-    { chinese: "对不起", pinyin: "duìbuqǐ", english: ["sorry", "excuse me"], vietnamese: ["xin lỗi"] },
-    { chinese: "没关系", pinyin: "méi guānxi", english: ["it's ok", "it doesn't matter", "no problem"], vietnamese: ["không sao", "không có gì"] },
+    { chinese: "谢谢", pinyin: "xiè xie", english: ["thank you", "thanks"], vietnamese: ["cảm ơn", "cám ơn"] },
+    { chinese: "不客气", pinyin: "bú kè qi", english: ["you're welcome", "you are welcome", "not at all"], vietnamese: ["không có gì", "đừng khách sáo"] },
+    { chinese: "再见", pinyin: "zài jiàn", english: ["goodbye", "bye"], vietnamese: ["tạm biệt"] },
+    { chinese: "对不起", pinyin: "duì bu qǐ", english: ["sorry", "excuse me"], vietnamese: ["xin lỗi"] },
+    { chinese: "没关系", pinyin: "méi guān xi", english: ["it's ok", "it doesn't matter", "no problem"], vietnamese: ["không sao", "không có gì"] },
     { chinese: "是", pinyin: "shì", english: ["yes", "is", "are", "am"], vietnamese: ["là", "phải", "đúng"] },
     { chinese: "我", pinyin: "wǒ", english: ["i", "me"], vietnamese: ["tôi", "tớ"] },
     { chinese: "我的", pinyin: "wǒ de", english: ["my", "mine"], vietnamese: ["của tôi"] },
@@ -15,7 +15,7 @@ const vocab = [
     { chinese: "他的", pinyin: "tā de", english: ["his"], vietnamese: ["của anh ấy"] },
     { chinese: "她", pinyin: "tā", english: ["she", "her"], vietnamese: ["cô ấy", "chị ấy", "bà ấy"] },
     { chinese: "她的", pinyin: "tā de", english: ["her", "hers"], vietnamese: ["của cô ấy"] },
-    { chinese: "我们", pinyin: "wǒmen", english: ["we", "us"], vietnamese: ["chúng tôi", "chúng ta"] },
+    { chinese: "我们", pinyin: "wǒ men", english: ["we", "us"], vietnamese: ["chúng tôi", "chúng ta"] },
     { chinese: "爱", pinyin: "ài", english: ["love", "to love"], vietnamese: ["yêu", "thích"] },
     { chinese: "家", pinyin: "jiā", english: ["home", "family"], vietnamese: ["nhà", "gia đình"] },
     { chinese: "吃", pinyin: "chī", english: ["eat", "to eat"], vietnamese: ["ăn"] },
@@ -136,7 +136,20 @@ const vocab = [
     { chinese: "你们", pinyin: "nǐ men", english: ["you"], vietnamese: ["các bạn"] },
     { chinese: "他们", pinyin: "tā men", english: ["they", "them"], vietnamese: ["họ", "bọn chúng", "bọn họ"] },
     { chinese: "问", pinyin: "wèn", english: ["ask", "to ask"], vietnamese: ["vấn", "hỏi"] },
-
+    { chinese: "间", pinyin: "jiān", english: ["room"], vietnamese: ["gian", "khoảng không gian"] },
+    { chinese: "中间", pinyin: "zhōng jiān", english: ["middle", "in between"], vietnamese: ["trung gian", "trung tâm", "ở giữa"] },
+    { chinese: "早", pinyin: "zǎo", english: ["morning", "early"], vietnamese: ["tảo", "sớm"] },
+    { chinese: "早日", pinyin: "zǎo rì", english: ["soon"], vietnamese: ["sớm"] },
+    { chinese: "早上好", pinyin: "zǎo shàng hǎo", english: ["good morning"], vietnamese: ["chào buổi sáng"] },
+    { chinese: "但", pinyin: "dàn", english: ["but"], vietnamese: ["đãn", "nhưng", "chỉ", "hễ"] },
+    { chinese: "只", pinyin: "zhǐ", english: ["only"], vietnamese: ["chỉ", "mỗi một"] },
+    { chinese: "认", pinyin: "rèn", english: ["recognize", "to recognize"], vietnamese: ["nhận"] },
+    { chinese: "认为", pinyin: "rèn wéi", english: ["think", "to think"], vietnamese: ["cho rằng"] },
+    { chinese: "识", pinyin: "shí", english: ["know", "to know"], vietnamese: ["thức", "biết"] },
+    { chinese: "认识", pinyin: "rèn shi", english: ["know", "to know", "regconize", "to recognize"], vietnamese: ["nhận thức", "nhận biết", "quen biết"] },
+    { chinese: "不识字", pinyin: "bù shí zì", english: ["illiterate"], vietnamese: ["không biết chữ"] },
+    { chinese: "只好", pinyin: "zhǐ hǎo", english: ["have no choice"], vietnamese: ["đành phải", "buộc phải"] },
+    
 ];
 
 // --- DOM ELEMENTS ---
