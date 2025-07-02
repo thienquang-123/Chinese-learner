@@ -278,7 +278,7 @@ function handleCorrectAnswer() {
     setTimeout(() => {
         currentWordIndex++;
         loadNextWord();
-    }, 2400); // Increased delay slightly to allow time to see pinyin
+    }, 1800); // Increased delay slightly to allow time to see pinyin
 }
 
 function handleWrongAnswer() {
