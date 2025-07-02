@@ -16,11 +16,11 @@ const vocab = [
     { chinese: "她", pinyin: "tā", english: ["she", "her"], vietnamese: ["cô ấy", "chị ấy", "bà ấy"] },
     { chinese: "她的", pinyin: "tā de", english: ["her", "hers"], vietnamese: ["của cô ấy"] },
     { chinese: "我们", pinyin: "wǒ men", english: ["we", "us"], vietnamese: ["chúng tôi", "chúng ta"] },
-    { chinese: "爱", pinyin: "ài", english: ["love", "to love"], vietnamese: ["yêu", "thích"] },
+    { chinese: "爱", pinyin: "ài", english: ["love", "to love"], vietnamese: ["ái", "yêu", "thích"] },
     { chinese: "家", pinyin: "jiā", english: ["home", "family"], vietnamese: ["gia", "nhà", "gia đình"] },
     { chinese: "吃", pinyin: "chī", english: ["eat", "to eat"], vietnamese: ["ăn"] },
     { chinese: "人", pinyin: "rén", english: ["human", "man"], vietnamese: ["nhân", "người", "con người"] },
-    { chinese: "从", pinyin: "cóng", english: ["from"], vietnamese: ["từ"] },
+    { chinese: "从", pinyin: "cóng", english: ["from"], vietnamese: ["từ", "tòng", "tùng"] },
     { chinese: "个", pinyin: "ge", english: ["universal measured word"], vietnamese: ["từ dùng để đếm", "cái", "quả", "con"] },
     { chinese: "个人", pinyin: "gè rén", english: ["individual", "personal"], vietnamese: ["riêng tư", "cá nhân", "một mình"] },
     { chinese: "大", pinyin: "dà", english: ["big"], vietnamese: ["to", "lớn", "đại"] },
@@ -170,8 +170,18 @@ const vocab = [
     { chinese: "里", pinyin: "lǐ", english: ["in", "inside"], vietnamese: ["lí", "lý", "bên trong", "phía trong"] },
     { chinese: "心里", pinyin: "xīn lǐ", english: ["in heart", "in mind"], vietnamese: ["trong lòng", "trong tâm trí"] },
     { chinese: "里边", pinyin: "lǐ biān", english: ["inside"], vietnamese: ["bên trong", "phía trong"] },
-    
-];
+    { chinese: "平", pinyin: "píng", english: ["even", "equal", "level", "flat"], vietnamese: ["bình", "biền", "bằng"] },
+    { chinese: "水平", pinyin: "shuǐ píng", english: ["level", "standard"], vietnamese: ["mức độ", "trình độ", "tiêu chuẩn"] },
+    { chinese: "半", pinyin: "bàn", english: ["half"], vietnamese: ["bán", "một nửa"] },
+    { chinese: "半天", pinyin: "bàn tiān", english: ["half day", "a long time"], vietnamese: ["nửa ngày", "một buổi", "một lúc lâu", "khá lâu"] },
+    { chinese: "来", pinyin: "lái", english: ["come", "to come"], vietnamese: ["lai", "đến"] },
+    { chinese: "回来", pinyin: "huí lái", english: ["come back"], vietnamese: ["về", "trở về", "quay về", "trở lại", "quay lại"] },
+    { chinese: "上来", pinyin: "shàng lái", english: ["come up"], vietnamese: ["đi lên"] },
+    { chinese: "下来", pinyin: "xià lái", english: ["come down"], vietnamese: ["đi xuống"] },
+    { chinese: "从来", pinyin: "cóng lái", english: ["always"], vietnamese: ["luôn luôn", "từ trước đến nay", "chưa bao giờ"] },
+    { chinese: "本来", pinyin: "běn lái", english: ["originally"], vietnamese: ["vốn dĩ", "ban đầu", "lúc đầu", "trước đây"] },
+    { chinese: "米", pinyin: "mǐ", english: ["rice"], vietnamese: ["mễ", "gạo"] },
+]
 
 // --- DOM ELEMENTS ---
 const questionDisplay = document.getElementById('question-display');
