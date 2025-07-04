@@ -219,6 +219,22 @@ const vocab = [
     { chinese: "去年", pinyin: "qù nián", english: ["last year"], vietnamese: ["năm ngoái", "năm trước"] },
     { chinese: "明年", pinyin: "míng nián", english: ["next year"], vietnamese: ["năm sau", "năm tới"] },
     { chinese: "中年", pinyin: "zhōng nián", english: ["middle-age"], vietnamese: ["trung niên"] },
+    { chinese: "汉", pinyin: "hàn", english: ["Han ethnic group"], vietnamese: ["hán", "người Hán"] },
+    { chinese: "汉字", pinyin: "hàn zì", english: ["Chinese character"], vietnamese: ["Hán tự"] },
+    { chinese: "汉语", pinyin: "hàn yǔ", english: ["Chinese language"], vietnamese: ["Hán ngữ", "tiếng Trung Quốc", "tiếng Hán"] },
+    { chinese: "没", pinyin: "méi", english: ["have not", "did not"], vietnamese: ["một", "không"] },
+    { chinese: "没有", pinyin: "méi yǒu", english: ["don’t have", "haven’t"], vietnamese: ["không có", "chưa từng"] },
+    { chinese: "没用", pinyin: "méi yòng", english: ["useless"], vietnamese: ["vô dụng", " không có tác dụng"] },
+    { chinese: "没什么", pinyin: "méi shén me", english: ["It doesn’t matter", "It’s nothing", "That’s all right"], vietnamese: ["không sao", "không quan trọng"] },
+    { chinese: "机", pinyin: "jī", english: ["machine"], vietnamese: ["cơ", "ki", "máy móc"] },
+    { chinese: "手机", pinyin: "shǒu jī", english: ["cell phone", "mobile phone"], vietnamese: ["điện thoại di động"] },
+    { chinese: "这", pinyin: "zhè/zhèi", english: ["this"], vietnamese: ["này"] },
+    { chinese: "这里", pinyin: "zhè lǐ", english: ["here"], vietnamese: ["đây", "tại đây", "nơi này"] },
+    { chinese: "那", pinyin: "nà/nèi", english: ["that"], vietnamese: ["đó"] },
+    { chinese: "那里", pinyin: "nà lǐ", english: ["there"], vietnamese: ["chỗ đó", "nơi đó"] },
+    { chinese: "哪", pinyin: "nǎ/něi", english: ["which"], vietnamese: ["gì", "nào"] },
+    { chinese: "哪里", pinyin: "nǎ lǐ", english: ["where"], vietnamese: ["đâu"] },
+    
 ]
 
 // --- DOM ELEMENTS ---
