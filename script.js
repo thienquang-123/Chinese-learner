@@ -258,6 +258,7 @@ const vocab = [
     { chinese: "上次", pinyin: "shàng cì", english: ["last time"], vietnamese: ["lần trước"] },
     { chinese: "它", pinyin: "tā", english: ["it"], vietnamese: ["nó"] },
     { chinese: "比", pinyin: "bǐ", english: ["compare"], vietnamese: ["so sánh", "đọ", "bì", "tỉ"] },
+    { chinese: "比如", pinyin: "bǐ rú", english: ["for example"], vietnamese: ["ví dụ"] },
     { chinese: "呢", pinyin: "ne", english: ["particle for follow-up question"], vietnamese: ["biểu thị nghi vấn", "nhỉ", "hả"] },
     
 ]
