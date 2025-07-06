@@ -333,8 +333,12 @@ function loadNextWord() {
         questionDisplay.classList.remove('meaning');
         answerInput.placeholder = "Type meaning (EN or VI)...";
     } else { // 'meaning_to_char'
-        const isEnglish = Math.random() > 0.5;
-        const meaning = isEnglish ? currentWord.english[0] : currentWord.vietnamese[0];
+        // OLD
+        // const isEnglish = Math.random() > 0.5;
+        // const meaning = isEnglish ? currentWord.english[0] : currentWord.vietnamese[0];
+        
+        //NEW
+        const meaning = currentWord.vietnamese[0];
         questionDisplay.textContent = meaning;
         // pinyinDisplay is already cleared above, so nothing shows here
         questionDisplay.classList.add('meaning');
@@ -394,7 +398,11 @@ function handleWrongAnswer() {
         if (currentMode === 'char_to_meaning') {
             // ADDED: Show pinyin after 3 wrong attempts
             pinyinDisplay.textContent = currentWord.pinyin;
-            correctAnswerText = `${currentWord.english[0]} / ${currentWord.vietnamese[0]}`;
+            // OLD
+            // correctAnswerText = `${currentWord.english[0]} / ${currentWord.vietnamese[0]}`;
+
+            // NEW
+            correctAnswerText = currentWord.vietnamese[0];
         } else {
             correctAnswerText = currentWord.chinese;
         }
