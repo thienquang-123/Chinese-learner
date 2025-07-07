@@ -283,6 +283,28 @@ const vocab = [
     { chinese: "应该", pinyin: "yīng gāi", english: ["should", "ought to"], vietnamese: ["nên/cần phải (2 từ)", "nên"] },
     { chinese: "买", pinyin: "mǎi", english: ["buy"], vietnamese: ["mua/sắm/tậu", "mãi", "mua"] },
     { chinese: "头", pinyin: "tóu", english: ["head"], vietnamese: ["đầu/cái đầu", "đầu"] },
+    { chinese: "店", pinyin: "diàn", english: ["store", "shop"], vietnamese: ["cửa hàng/tiệm", "điếm", "tiệm"] },
+    { chinese: "花店", pinyin: "huā diàn", english: ["flower shop"], vietnamese: ["cửa hàng hoa", "tiệm hoa"] },
+    { chinese: "点", pinyin: "diǎn", english: ["to ignite", "a little", "o'clock"], vietnamese: ["một chút/châm lửa/giờ", "điểm", "chấm"] },
+    { chinese: "地点", pinyin: "dì diǎn", english: ["place", "location"], vietnamese: ["địa điểm"] },
+    { chinese: "一点", pinyin: "yì diǎn", english: ["a little (+ noun)"], vietnamese: ["một chút/một ít", "một chút", "một ít"] },
+    { chinese: "有点", pinyin: "yǒu diǎn", english: ["a little (+ adj.)"], vietnamese: ["hơi/có chút", "hơi"] },
+    { chinese: "早点", pinyin: "zǎo diǎn", english: ["breakfast"], vietnamese: ["bữa sáng"] },
+    { chinese: "点心", pinyin: "diǎn xīn", english: ["dim-sum", "snack"], vietnamese: ["các món ăn nhẹ (bữa sáng hoặc ăn vặt)", "điểm tâm"] },
+    { chinese: "热", pinyin: "rè", english: ["hot", "warm"], vietnamese: ["nóng", "nhiệt"] },
+    { chinese: "热心", pinyin: "rè xīn", english: ["warm-hearted", "enthusiastic"], vietnamese: ["nhiệt tình"] },
+    { chinese: "加", pinyin: "jiā", english: ["to add"], vietnamese: ["thêm vào/tăng thêm", "gia"] },
+    { chinese: "叫", pinyin: "jiào", english: ["to call", "to be called"], vietnamese: ["kêu/gọi", "khiếu", "gọi", "kêu"] },
+    { chinese: "和", pinyin: "hé", english: ["and", "harmonious"], vietnamese: ["cùng/và/hòa", "và", "hoà"] },
+    { chinese: "和平", pinyin: "hé píng", english: ["peace"], vietnamese: ["hòa bình"] },
+    { chinese: "可", pinyin: "kě", english: ["can", "may"], vietnamese: ["có thể", "khả"] },
+    { chinese: "认可", pinyin: "rèn kě", english: ["accept", "approve"], vietnamese: ["chấp nhận/cho phép/công nhận", "chấp nhận", "cho phép", "công nhận"] },
+    { chinese: "歌", pinyin: "gē", english: ["song"], vietnamese: ["bài hát", "ca"] },
+    { chinese: "歌手", pinyin: "gē shǒu", english: ["singer"], vietnamese: ["ca sĩ"] },
+    { chinese: "哥哥", pinyin: "gē gē", english: ["older brother"], vietnamese: ["anh trai"] },
+    { chinese: "欢", pinyin: "huān", english: ["happy", "joyful"], vietnamese: ["vui vẻ/mừng/hoan", "hoan", "vui vẻ"] },
+    { chinese: "欢乐", pinyin: "huān lè", english: ["joyful", "happy"], vietnamese: ["vui vẻ/hoan lạc", "hoan lạc"] },
+
 ]
 
 // --- DOM ELEMENTS ---
