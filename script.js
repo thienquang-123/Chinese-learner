@@ -66,7 +66,7 @@ const vocab = [
     { chinese: "生", pinyin: "shēng", english: ["life", "birth"], vietnamese: ["sinh/sinh đẻ", "sinh"] },
     { chinese: "八", pinyin: "bā", english: ["eight"], vietnamese: ["số tám", "bát"] },
     { chinese: "六", pinyin: "liù", english: ["six"], vietnamese: ["sáu", "lục"] },
-    { chinese: "分", pinyin: "fēn", english: ["distinguish","minute", "point"], vietnamese: ["phân/phân biệt/phần"] },
+    { chinese: "分", pinyin: "fēn", english: ["distinguish","minute", "point"], vietnamese: ["phân/phân biệt/phần", "phân"] },
     { chinese: "十分", pinyin: "shí fēn", english: ["very"], vietnamese: ["rất"] },
     { chinese: "几", pinyin: "jǐ", english: ["how many"], vietnamese: ["bao nhiêu (<10)", "kỷ"] },
     { chinese: "儿", pinyin: "ér", english: ["son"], vietnamese: ["đứa trẻ", "nhi"] },
