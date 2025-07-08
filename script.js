@@ -155,7 +155,7 @@ const vocab = [
     { chinese: "水", pinyin: "shuǐ", english: ["water"], vietnamese: ["nước", "thuỷ"] },
     { chinese: "火", pinyin: "huǒ", english: ["fire"], vietnamese: ["lửa", "hoả"] },
     { chinese: "火车", pinyin: "huǒ chē", english: ["train"], vietnamese: ["tàu lửa", "xe lửa"] },
-    { chinese: "休", pinyin: "xiū", english: ["rest", "to rest"], vietnamese: ["nghỉ/nghỉ ngơi", "hữu"] },
+    { chinese: "休", pinyin: "xiū", english: ["rest", "to rest"], vietnamese: ["nghỉ/nghỉ ngơi", "hưu"] },
     { chinese: "午休", pinyin: "wǔ xiū", english: ["mid-day nap"], vietnamese: ["nghỉ trưa", "ngủ trưa"] },
     { chinese: "末", pinyin: "mò", english: ["end", "the end"], vietnamese: ["cuối/cuối cùng", "mạt"] },
     { chinese: "月末", pinyin: "yuè mò", english: ["the end of the month"], vietnamese: ["cuối tháng"] },
