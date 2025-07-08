@@ -307,7 +307,7 @@ const vocab = [
     { chinese: "非", pinyin: "fēi", english: ["not"], vietnamese: ["không/không phải", "không", "phi"] },
     { chinese: "非常", pinyin: "fēi cháng", english: ["very", "exceptionally"], vietnamese: ["rất/vô cùng/cực kỳ", "rất", "phi thường"] },
     { chinese: "真", pinyin: "zhēn", english: ["true", "real"], vietnamese: ["thật/thực", "chân", "thật", "thực"] },
-    { chinese: "真心", pinyin: "huān lè", english: ["sincere"], vietnamese: ["thật lòng/thật tâm/chân thành/chân thật", "thật lòng", "chân tâm"] },
+    { chinese: "真心", pinyin: "zhēn xīn", english: ["sincere"], vietnamese: ["thật lòng/thật tâm/chân thành/chân thật", "thật lòng", "chân tâm"] },
     { chinese: "喜", pinyin: "xǐ", english: ["happy"], vietnamese: ["thích/mừng/việc tốt lành/việc vui mừng", "hỉ", "hỷ", "hí", "hý"] },
     { chinese: "喜欢", pinyin: "xǐ huān", english: ["like", "to like"], vietnamese: ["thích/yêu thích/yêu mến/ưa thích", "thích", "yêu thích"] },
 
