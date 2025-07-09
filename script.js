@@ -310,7 +310,25 @@ const vocab = [
     { chinese: "真心", pinyin: "zhēn xīn", english: ["sincere"], vietnamese: ["thật lòng/thật tâm/chân thành/chân thật", "thật lòng", "chân tâm"] },
     { chinese: "喜", pinyin: "xǐ", english: ["happy"], vietnamese: ["thích/mừng/việc tốt lành/việc vui mừng", "hỉ", "hỷ", "hí", "hý"] },
     { chinese: "喜欢", pinyin: "xǐ huān", english: ["like", "to like"], vietnamese: ["thích/yêu thích/yêu mến/ưa thích", "thích", "yêu thích"] },
-
+    { chinese: "打", pinyin: "dǎ", english: ["hit", "strike", "play", "dial", "take"], vietnamese: ["đánh/đập", "đả"] },
+    { chinese: "打车", pinyin: "dǎ chē", english: ["hail a taxi"], vietnamese: ["bắt taxi", "gọi taxi"] },
+    { chinese: "找", pinyin: "zhǎo", english: ["look for"], vietnamese: ["tìm/kiếm", "tìm", "kiếm", "trảo"] },
+    { chinese: "或", pinyin: "huò", english: ["or"], vietnamese: ["hoặc", "hay"] },
+    { chinese: "见", pinyin: "jiàn", english: ["see"], vietnamese: ["gặp/thấy", "thấy", "kiến"] },
+    { chinese: "现", pinyin: "xiàn", english: ["now", "present", "appear"], vietnamese: ["xuất hiện/bây giờ/tồn tại", "hiện"] },
+    { chinese: "出现", pinyin: "chū xiàn", english: ["appear", "emerge"], vietnamese: ["xuất hiện"] },
+    { chinese: "发现", pinyin: "fā xiàn", english: ["discover"], vietnamese: ["phát hiện", "khám phá"] },
+    { chinese: "王", pinyin: "wáng", english: ["king"], vietnamese: ["vua", "vương"] },
+    { chinese: "视", pinyin: "shì", english: ["vision", "to watch"], vietnamese: ["thị/nhìn", "nhìn", "thị"] },
+    { chinese: "视力", pinyin: "shì lì", english: ["eyesight", "vision"], vietnamese: ["thị lực"] },
+    { chinese: "电视", pinyin: "diàn shì", english: ["television", "TV"], vietnamese: ["tivi", "truyền hình"] },
+    { chinese: "会", pinyin: "huì", english: ["can", "will", "meeting"], vietnamese: ["có thể/sẽ/họp", "sẽ", "có thể", "họp", "hội"] },
+    { chinese: "开会", pinyin: "kāi huì", english: ["have a meeting", "hold a meeting"], vietnamese: ["họp", "tổ chức cuộc họp"] },
+    { chinese: "机会", pinyin: "jī huì", english: ["chance", "opportunity"], vietnamese: ["cơ hội"] },
+    { chinese: "云", pinyin: "yún", english: ["cloud"], vietnamese: ["mây", "vân"] },
+    { chinese: "全", pinyin: "quán", english: ["whole", "complete"], vietnamese: ["toàn bộ/tất cả", "toàn"] },
+    { chinese: "住", pinyin: "zhù", english: ["to live", "to reside"], vietnamese: ["sống/ở", "trú", "sống"] },
+    { chinese: "主", pinyin: "zhǔ", english: ["master", "host", "owner"], vietnamese: ["chủ/chúa", "chủ"] },
 ]
 
 // --- DOM ELEMENTS ---
