@@ -329,6 +329,7 @@ const vocab = [
     { chinese: "全", pinyin: "quán", english: ["whole", "complete"], vietnamese: ["toàn bộ/tất cả", "toàn"] },
     { chinese: "住", pinyin: "zhù", english: ["to live", "to reside"], vietnamese: ["sống/ở", "trú", "sống"] },
     { chinese: "主", pinyin: "zhǔ", english: ["master", "host", "owner"], vietnamese: ["chủ/chúa", "chủ"] },
+    { chinese: "木", pinyin: "mù", english: ["tree"], vietnamese: ["cây/gỗ", "mộc"] },
 ]
 
 // --- DOM ELEMENTS ---
