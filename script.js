@@ -330,6 +330,20 @@ const vocab = [
     { chinese: "住", pinyin: "zhù", english: ["to live", "to reside"], vietnamese: ["sống/ở", "trú", "sống"] },
     { chinese: "主", pinyin: "zhǔ", english: ["master", "host", "owner"], vietnamese: ["chủ/chúa", "chủ"] },
     { chinese: "木", pinyin: "mù", english: ["tree"], vietnamese: ["cây/gỗ", "mộc"] },
+    { chinese: "运", pinyin: "yùn", english: ["to transport", "luck", "fortune"], vietnamese: ["may mắn/vận may/chuyên chở", "vận"] },
+    { chinese: "运气", pinyin: "yùn qì", english: ["luck"], vietnamese: ["vận khí/may mắn", "vận khí"] },
+    { chinese: "动", pinyin: "dòng", english: ["to move"], vietnamese: ["động/cử động/hoạt động", "động"] },
+    { chinese: "运动", pinyin: "yùn dòng", english: ["exercise", "sport"], vietnamese: ["thể dục/thể thao", "vận động"] },
+    { chinese: "助", pinyin: "zhù", english: ["to help", "assist"], vietnamese: ["trợ/giúp", "trợ", "giúp"] },
+    { chinese: "助手", pinyin: "zhù shǒu", english: ["assistant"], vietnamese: ["trợ thủ/trợ lý", "trợ lý", "trợ thủ"] },
+    { chinese: "今", pinyin: "jīn", english: ["today", "present"], vietnamese: ["nay/bây giờ", "kim"] },
+    { chinese: "今天", pinyin: "jīn tiān", english: ["today"], vietnamese: ["hôm nay"] },
+    { chinese: "今日", pinyin: "jīn rì", english: ["today (formal)"], vietnamese: ["hôm nay (văn viết", "hôm nay"] },
+    { chinese: "今年", pinyin: "jīn nián", english: ["this year"], vietnamese: ["năm nay"] },
+    { chinese: "冷", pinyin: "lěng", english: ["cold"], vietnamese: ["lạnh", "lãnh"] },
+    { chinese: "净", pinyin: "jìng", english: ["clean"], vietnamese: ["sạch", "tịnh"] },
+    { chinese: "干净", pinyin: "gān jìng", english: ["clean", "neat"], vietnamese: ["sạch sẽ/gọn gàng", "sạch sẽ", "gọn gàng"] },
+    
 ]
 
 // --- DOM ELEMENTS ---
