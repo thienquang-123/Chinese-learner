@@ -392,6 +392,9 @@ const vocab = [
     { chinese: "远", pinyin: "yuǎn", english: ["far"], vietnamese: ["xa/xa xôi", "viễn", "xa"] },
     { chinese: "完", pinyin: "wán", english: ["to finish", "complete"], vietnamese: ["hoàn/hết/xong", "xong", "hoàn", "hết"] },
     { chinese: "完全", pinyin: "wán quán", english: ["complete"], vietnamese: ["hoàn toàn"] },
+    { chinese: "对", pinyin: "duì", english: ["correct", "toward", "to"], vietnamese: ["đúng", "đối với"] },
+    { chinese: "对方", pinyin: "duì fāng", english: ["counterpart", "opposite side"], vietnamese: ["đối phương", "bên kia"] },
+    
 ]
 
 // --- DOM ELEMENTS ---
