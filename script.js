@@ -1,5 +1,6 @@
 // --- VOCABULARY LIST ---
 const vocab = [
+    /*
     { chinese: "你好", pinyin: "nǐ hǎo", english: ["hello", "hi"], vietnamese: ["xin chào", "chào bạn"] },
     { chinese: "谢谢", pinyin: "xiè xie", english: ["thank you", "thanks"], vietnamese: ["cảm ơn", "cám ơn"] },
     { chinese: "不客气", pinyin: "bú kè qi", english: ["you're welcome", "you are welcome", "not at all"], vietnamese: ["không có gì", "đừng khách sáo"] },
@@ -194,6 +195,7 @@ const vocab = [
     { chinese: "男", pinyin: "nán", english: ["man", "male"], vietnamese: ["nam/đàn ông/con trai", "nam"] },
     { chinese: "男友", pinyin: "nán yǒu", english: ["boyfriend"], vietnamese: ["bạn trai"] },
     { chinese: "女友", pinyin: "nǚ yǒu", english: ["girlfriend"], vietnamese: ["bạn gái"] },
+    */
     { chinese: "发", pinyin: "fā/fà/fa", english: ["to send", "hair"], vietnamese: ["gửi đi/tóc", "phất", "phát"] },
     { chinese: "才", pinyin: "cái", english: ["ability", "talent", "just"], vietnamese: ["tài/tài năng", "tài"] },
     { chinese: "有才", pinyin: "yǒu cái", english: ["talented"], vietnamese: ["có tài"] },
@@ -392,8 +394,28 @@ const vocab = [
     { chinese: "远", pinyin: "yuǎn", english: ["far"], vietnamese: ["xa/xa xôi", "viễn", "xa"] },
     { chinese: "完", pinyin: "wán", english: ["to finish", "complete"], vietnamese: ["hoàn/hết/xong", "xong", "hoàn", "hết"] },
     { chinese: "完全", pinyin: "wán quán", english: ["complete"], vietnamese: ["hoàn toàn"] },
-    { chinese: "对", pinyin: "duì", english: ["correct", "toward", "to"], vietnamese: ["đúng", "đối với"] },
-    { chinese: "对方", pinyin: "duì fāng", english: ["counterpart", "opposite side"], vietnamese: ["đối phương", "bên kia"] },
+    { chinese: "对", pinyin: "duì", english: ["correct", "toward", "to"], vietnamese: ["đúng/quay về phía/trả lời/đối", "đối", "đúng"] },
+    { chinese: "对方", pinyin: "duì fāng", english: ["counterpart", "opposite side"], vietnamese: ["đối phương"] },
+    { chinese: "时", pinyin: "shí", english: ["time"], vietnamese: ["thời/thì/lúc/thời gian", "thì", "thời"] },
+    { chinese: "时间", pinyin: "shí jiān", english: ["time"], vietnamese: ["thời gian"] },
+    { chinese: "小时", pinyin: "xiǎo shí", english: ["hour"], vietnamese: ["giờ (thời gian)", "giờ"] },
+    { chinese: "有时", pinyin: "yǒu shí", english: ["sometimes"], vietnamese: ["có lúc/có khi/đôi khi/thỉnh thoảng", "có lúc", "có khi", "đôi khi"] },
+    { chinese: "平时", pinyin: "píng shí", english: ["usually", "ordinarily"], vietnamese: ["bình thường/thường ngày/lúc thường", "bình thường"] },
+    { chinese: "过", pinyin: "guò", english: ["to pass", "to cross", "to spend (time)"], vietnamese: ["qua/quá/vượt/đã từng", "qua", "quá"] },
+    { chinese: "过来", pinyin: "guò lái", english: ["come over"], vietnamese: ["qua đây/lại đây", "qua đây", "lại đây"] },
+    { chinese: "过去", pinyin: "guò qù", english: ["go over", "past"], vietnamese: ["đã qua/quá khứ/đi qua", "quá khứ", "đi qua"] },
+    { chinese: "不过", pinyin: "bú guò", english: ["but", "however"], vietnamese: ["nhưng/tuy nhiên", "nhưng"] },
+    { chinese: "走", pinyin: "zǒu", english: ["walk", "leave", "go"], vietnamese: ["chạy/đi/rời đi", "tẩu", "đi"] },
+    { chinese: "起", pinyin: "qǐ", english: ["to rise", "get up"], vietnamese: ["dậy/đứng dậy", "dậy", "khởi"] },
+    { chinese: "起来", pinyin: "qǐ lái", english: ["get up", "stand up"], vietnamese: ["dậy/đứng dậy", "dậy"] },
+    { chinese: "一起", pinyin: "yì qǐ", english: ["together"], vietnamese: ["cùng nhau"] },
+    { chinese: "了不起", pinyin: "liǎo bu qǐ", english: ["amazing", "remarkable"], vietnamese: ["tuyệt vời", "giỏi"] },
+    { chinese: "可是", pinyin: "kě shì", english: ["but"], vietnamese: ["nhưng"] },
+    { chinese: "但是", pinyin: "dàn shì", english: ["but"], vietnamese: ["nhưng", "tuy nhiên"] },
+    { chinese: "还是", pinyin: "hái shì", english: ["or", "still"], vietnamese: ["hay là"] },
+    { chinese: "只是", pinyin: "zhǐ shì", english: ["only", "just"], vietnamese: ["chỉ là"] },
+    { chinese: "己", pinyin: "jǐ", english: ["self"], vietnamese: ["mình/riêng/kỷ", "kỉ", "kỷ"] },
+    { chinese: "自己", pinyin: "zì jǐ", english: ["oneself", "self"], vietnamese: ["tự mình/bản thân/chính mình", "tự kỷ", "bản thân"] },
     
 ]
 
