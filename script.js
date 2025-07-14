@@ -374,7 +374,7 @@ const vocab = [
     { chinese: "自行车", pinyin: "zì xíng chē", english: ["bicycle"], vietnamese: ["xe đạp"] },
     { chinese: "自动", pinyin: "zì dòng", english: ["automatic"], vietnamese: ["tự động"] },
     { chinese: "息", pinyin: "xī", english: ["to rest"], vietnamese: ["nghỉ/nghỉ ngơi/hơi thở", "tức", "nghỉ"] },
-    { chinese: "息休", pinyin: "xiū xi", english: ["to rest"], vietnamese: ["nghỉ/nghỉ ngơi", "nghỉ ngơi", "nghỉ"] },
+    { chinese: "休息", pinyin: "xiū xi", english: ["to rest"], vietnamese: ["nghỉ/nghỉ ngơi", "nghỉ ngơi", "nghỉ"] },
     { chinese: "道", pinyin: "dào", english: ["way", "path", "road"], vietnamese: ["đường/đạo", "đạo"] },
     { chinese: "地道", pinyin: "dì dao", english: ["authentic", "genuine"], vietnamese: ["thật/đích thực", "thật", "đích thực"] },
     { chinese: "知道", pinyin: "zhī dào", english: ["to know"], vietnamese: ["biết"] },
