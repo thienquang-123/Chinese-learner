@@ -416,6 +416,13 @@ const vocab = [
     { chinese: "只是", pinyin: "zhǐ shì", english: ["only", "just"], vietnamese: ["chỉ là"] },
     { chinese: "己", pinyin: "jǐ", english: ["self"], vietnamese: ["mình/riêng/kỷ", "kỉ", "kỷ"] },
     { chinese: "自己", pinyin: "zì jǐ", english: ["oneself", "self"], vietnamese: ["tự mình/bản thân/chính mình", "tự kỷ", "bản thân"] },
+    { chinese: "在", pinyin: "zài", english: ["at", "in", "on"], vietnamese: ["ở/tại", "tại"] },
+    { chinese: "现在", pinyin: "xiàn zài", english: ["now"], vietnamese: ["giờ/bây giờ/hiện tại", "hiện tại"] },
+    { chinese: "空", pinyin: "kōng/kòng", english: ["empty", "sky", "free time"], vietnamese: ["không/trống rỗng/không gian/rảnh", "không"] },
+    { chinese: "天空", pinyin: "tiān kōng", english: ["sky"], vietnamese: ["bầu trời", "thiên không"] },
+    { chinese: "空气", pinyin: "kōng qì", english: ["air"], vietnamese: ["không khí"] },
+    { chinese: "穿", pinyin: "chuān", english: ["to wear", "to put on"], vietnamese: ["mặc/mang/đeo", "mặc", "mang", "xuyên"] },
+    { chinese: "牙", pinyin: "yá", english: ["tooth"], vietnamese: ["răng/ngà voi", "răng", "nha"] }
     
 ]
 
