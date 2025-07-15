@@ -422,7 +422,15 @@ const vocab = [
     { chinese: "天空", pinyin: "tiān kōng", english: ["sky"], vietnamese: ["bầu trời", "thiên không"] },
     { chinese: "空气", pinyin: "kōng qì", english: ["air"], vietnamese: ["không khí"] },
     { chinese: "穿", pinyin: "chuān", english: ["to wear", "to put on"], vietnamese: ["mặc/mang/đeo", "mặc", "mang", "xuyên"] },
-    { chinese: "牙", pinyin: "yá", english: ["tooth"], vietnamese: ["răng/ngà voi", "răng", "nha"] }
+    { chinese: "牙", pinyin: "yá", english: ["tooth"], vietnamese: ["răng/ngà voi", "răng", "nha"] }，
+    { chinese: "吃", pinyin: "chī", english: ["eat", "to eat"], vietnamese: ["ăn"， "cật"] },
+    { chinese: "听", pinyin: "tīng", english: ["listen", "obey"], vietnamese: ["nghe", "thính"] },
+    { chinese: "听你的", pinyin: "tīng nǐ de", english: ["it's up to you"], vietnamese: ["tùy bạn"] },
+    { chinese: "唱", pinyin: "chàng", english: ["to sing"], vietnamese: ["hát", "xướng"] },
+    { chinese: "唱歌", pinyin: "chàng gē", english: ["to sing (a song)"], vietnamese: ["hát (2 từ)", "hát"] },
+    { chinese: "爸", pinyin: "bà", english: ["dad", "father"], vietnamese: ["bố/ba", "bố", "ba"] },
+    { chinese: "吧", pinyin: "ba", english: ["suggestion particle"], vietnamese: ["nhé", "đi thôi"] },
+    { chinese: "把", pinyin: "bǎ", english: ["grasp", "grab"], vietnamese: ["cầm/nắm/giữ", "cầm", "nắm", "bả"] },
     
 ]
 
