@@ -431,7 +431,28 @@ const vocab = [
     { chinese: "爸", pinyin: "bà", english: ["dad", "father"], vietnamese: ["bố/ba", "bố", "ba"] },
     { chinese: "吧", pinyin: "ba", english: ["suggestion particle"], vietnamese: ["nhé", "đi thôi"] },
     { chinese: "把", pinyin: "bǎ", english: ["grasp", "grab"], vietnamese: ["cầm/nắm/giữ", "cầm", "nắm", "bả"] },
-    
+    { chinese: "书", pinyin: "shū", english: ["book"], vietnamese: ["sách", "thư"] },
+    { chinese: "书店", pinyin: "shū diàn", english: ["bookstore"], vietnamese: ["hiệu sách", "tiệm sách", "cửa hàng sách"] },
+    { chinese: "书法", pinyin: "shū fǎ", english: ["calligraphy"], vietnamese: ["thư pháp"] },
+    { chinese: "包", pinyin: "bāo", english: ["bag", "wrap"], vietnamese: ["bao/túi/gói/bọc", "bao"] },
+    { chinese: "包子", pinyin: "bāo zi", english: ["steamed bun"], vietnamese: ["bánh bao"] },
+    { chinese: "跑", pinyin: "pǎo", english: ["to run"], vietnamese: ["chạy", "bào"] },
+    { chinese: "说", pinyin: "shuō", english: ["to say", "speak", "talk"], vietnamese: ["nói", "thuyết"] },
+    { chinese: "小说", pinyin: "xiǎo shuō", english: ["novel", "fiction"], vietnamese: ["tiểu thuyết"] },
+    { chinese: "话", pinyin: "huà", english: ["speech", "words", "language", "dialect"], vietnamese: ["lời/tiếng/nói", "thoại"] },
+    { chinese: "电话", pinyin: "diàn huà", english: ["telephone"], vietnamese: ["điện thoại"] },
+    { chinese: "听话", pinyin: "tīng huà", english: ["obey", "obedient", "listen to"], vietnamese: ["nghe lời", "vâng lời"] },
+    { chinese: "对话", pinyin: "duì huà", english: ["dialogue"], vietnamese: ["đối thoại"] },
+    { chinese: "记", pinyin: "jì", english: ["remember", "write down", "record"], vietnamese: ["ghi chép/viết/nhớ", "ký", "nhớ"] },
+    { chinese: "忘记", pinyin: "wàng jì", english: ["forget"], vietnamese: ["quên"] },
+    { chinese: "日记", pinyin: "rì jì", english: ["diary", "journal"], vietnamese: ["nhật ký"] },
+    { chinese: "学", pinyin: "xué", english: ["study", "learn"], vietnamese: ["học"] },
+    { chinese: "学习", pinyin: "xué xí", english: ["study", "learn"], vietnamese: ["học tập"] },
+    { chinese: "学生", pinyin: "xué sheng", english: ["student"], vietnamese: ["học sinh", "sinh viên"] },
+    { chinese: "大学", pinyin: "dà xué", english: ["university"], vietnamese: ["đại học"] },
+    { chinese: "文学", pinyin: "wén xué", english: ["literature"], vietnamese: ["văn học"] },
+    { chinese: "觉", pinyin: "jué/jiào", english: ["to feel", "sleep"], vietnamese: ["cảm thấy/ngủ", "ngủ", "giác", "cảm thấy"] },
+
 ]
 
 // --- DOM ELEMENTS ---
