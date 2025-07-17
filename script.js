@@ -195,7 +195,6 @@ const vocab = [
     { chinese: "男", pinyin: "nán", english: ["man", "male"], vietnamese: ["nam/đàn ông/con trai", "nam"] },
     { chinese: "男友", pinyin: "nán yǒu", english: ["boyfriend"], vietnamese: ["bạn trai"] },
     { chinese: "女友", pinyin: "nǚ yǒu", english: ["girlfriend"], vietnamese: ["bạn gái"] },
-    */
     { chinese: "发", pinyin: "fā/fà/fa", english: ["to send", "hair"], vietnamese: ["gửi đi/tóc", "phất", "phát"] },
     { chinese: "才", pinyin: "cái", english: ["ability", "talent", "just"], vietnamese: ["tài/tài năng", "tài"] },
     { chinese: "有才", pinyin: "yǒu cái", english: ["talented"], vietnamese: ["có tài"] },
@@ -299,6 +298,7 @@ const vocab = [
     { chinese: "叫", pinyin: "jiào", english: ["to call", "to be called"], vietnamese: ["kêu/gọi", "khiếu", "gọi", "kêu"] },
     { chinese: "和", pinyin: "hé", english: ["and", "harmonious"], vietnamese: ["cùng/và/hòa", "và", "hoà"] },
     { chinese: "和平", pinyin: "hé píng", english: ["peace"], vietnamese: ["hoà bình"] },
+    */
     { chinese: "可", pinyin: "kě", english: ["can", "may"], vietnamese: ["có thể", "khả"] },
     { chinese: "认可", pinyin: "rèn kě", english: ["accept", "approve"], vietnamese: ["chấp nhận/cho phép/công nhận", "chấp nhận", "cho phép", "công nhận"] },
     { chinese: "歌", pinyin: "gē", english: ["song"], vietnamese: ["bài hát", "ca"] },
@@ -452,6 +452,22 @@ const vocab = [
     { chinese: "大学", pinyin: "dà xué", english: ["university"], vietnamese: ["đại học"] },
     { chinese: "文学", pinyin: "wén xué", english: ["literature"], vietnamese: ["văn học"] },
     { chinese: "觉", pinyin: "jué/jiào", english: ["to feel", "sleep"], vietnamese: ["cảm thấy/ngủ", "ngủ", "giác", "cảm thấy"] },
+    { chinese: "可爱", pinyin: "kě ài", english: ["cute", "lovely"], vietnamese: ["dễ thương/đáng yêu", "dễ thương", "đáng yêu", "khả ái"] },
+    { chinese: "爱好", pinyin: "ài hào", english: ["hobby"], vietnamese: ["sở thích"] },
+    { chinese: "两", pinyin: "liǎng", english: ["two", "both"], vietnamese: ["hai", "lưỡng"] },
+    { chinese: "网", pinyin: "wǎng", english: ["net", "web", "network"], vietnamese: ["lưới", "võng"] },
+    { chinese: "肉", pinyin: "ròu", english: ["meat", "flesh"], vietnamese: ["thịt", "nhục"] },
+    { chinese: "国", pinyin: "guó", english: ["country", "nation", "kingdom"], vietnamese: ["quốc gia/nước", "quốc"] },
+    { chinese: "西", pinyin: "xī", english: ["west"], vietnamese: ["tây"] },
+    { chinese: "西游记", pinyin: "xī yóu jì", english: ["Journey to the West"], vietnamese: ["Tây Du Ký"] },
+    { chinese: "酒", pinyin: "jiǔ", english: ["alcohol", "liquor", "wine"], vietnamese: ["rượu", "tửu"] },
+    { chinese: "酒吧", pinyin: "jiǔ bā", english: ["bar", "pub"], vietnamese: ["quán bar", "quán rượu"] },
+    { chinese: "酒店", pinyin: "jiǔ diàn", english: ["hotel"], vietnamese: ["khách sạn", "tửu điếm"] },
+    { chinese: "喝", pinyin: "hē", english: ["to drink"], vietnamese: ["uống"] },
+    { chinese: "渴", pinyin: "kě", english: ["thirsty"], vietnamese: ["khát"] },
+    { chinese: "口渴", pinyin: "kǒu kě", english: ["thirsty"], vietnamese: ["khát nước"] },
+    { chinese: "最", pinyin: "zuì", english: ["most", "best"], vietnamese: ["nhất", "tối"] },
+    { chinese: "最后", pinyin: "zuì hòu", english: ["last", "finally", "lastly"], vietnamese: ["cuối cùng"] },
 
 ]
 
