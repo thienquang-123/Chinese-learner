@@ -493,6 +493,12 @@ const vocab = [
     { chinese: "或者", pinyin: "huò zhě", english: ["or (in statements)"], vietnamese: ["hoặc", "hay"] },
     { chinese: "都", pinyin: "dōu", english: ["all", "both"], vietnamese: ["đều/tất cả", "đều", "tất cả", "đô"] },
     { chinese: "全都", pinyin: "quán dōu", english: ["all", "both"], vietnamese: ["tất cả", "đều"] },
+    { chinese: "茶", pinyin: "chá", english: ["tea"], vietnamese: ["trà", "chè"] },
+    { chinese: "菜", pinyin: "cài", english: ["vegetables", "food", "dishes"], vietnamese: ["rau", "thái"] },
+    { chinese: "白菜", pinyin: "bái cài", english: ["cabbage"], vietnamese: ["cải thảo"] },
+    { chinese: "点菜", pinyin: "diǎn cài", english: ["to order food"], vietnamese: ["gọi món"] },
+    { chinese: "英", pinyin: "yīng", english: ["hero", "Britain"], vietnamese: ["anh/người tài giỏi", "anh"] },
+    { chinese: "英语", pinyin: "yīng yǔ", english: ["English"], vietnamese: ["tiếng Anh", "Anh ngữ"] },
 
 ]
 
