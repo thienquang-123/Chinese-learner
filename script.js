@@ -499,7 +499,20 @@ const vocab = [
     { chinese: "点菜", pinyin: "diǎn cài", english: ["to order food"], vietnamese: ["gọi món"] },
     { chinese: "英", pinyin: "yīng", english: ["hero", "Britain"], vietnamese: ["anh/người tài giỏi", "anh"] },
     { chinese: "英语", pinyin: "yīng yǔ", english: ["English"], vietnamese: ["tiếng Anh", "Anh ngữ"] },
-
+    { chinese: "英", pinyin: "yīng", english: ["hero", "Britain/England"], vietnamese: ["anh hùng", "Anh (quốc)"] },
+    { chinese: "英语", pinyin: "yīng yǔ", english: ["English (language)"], vietnamese: ["tiếng Anh"] },
+    { chinese: "坐", pinyin: "zuò", english: ["to sit", "to travel by"], vietnamese: ["ngồi", "toạ"] },
+    { chinese: "再", pinyin: "zài", english: ["again"], vietnamese: ["lại/lần nữa", "tái", "lại"] },
+    { chinese: "重", pinyin: "zhòng", english: ["heavy", "weight"], vietnamese: ["nặng/trọng", "trọng", "nặng"] },
+    { chinese: "号", pinyin: "hào", english: ["number (in a series)", "day (of month)", "size"], vietnamese: ["số/ngày (trong tháng)/cỡ", "số", "cỡ"] },
+    { chinese: "电话号", pinyin: "diàn huà hào", english: ["phone number"], vietnamese: ["số điện thoại", "số đt"] },
+    { chinese: "鸡", pinyin: "jī", english: ["chicken"], vietnamese: ["gà", "kê"] },
+    { chinese: "场", pinyin: "chǎng", english: ["ground", "field"], vietnamese: ["vùng/sân/bãi", "sân", "trường"] },
+    { chinese: "机场", pinyin: "jī chǎng", english: ["airport"], vietnamese: ["sân bay", "phi trường"] },
+    { chinese: "运动场", pinyin: "yùn dòng chǎng", english: ["sports ground", "athletic field"], vietnamese: ["sân vận động", "sân thể thao"] },
+    { chinese: "当", pinyin: "dāng", english: ["to be", "to work as"], vietnamese: ["đương (đảm đương/đương chức)", "đương"] },
+    { chinese: "当心", pinyin: "dāng xīn", english: ["be careful"], vietnamese: ["cẩn thận", "coi chừng"] },
+    { chinese: "当时", pinyin: "dāng shí", english: ["at that time"], vietnamese: ["lúc đó/khi đó", "đương thời", "khi đó", "lúc đó"] },
 ]
 
 // --- DOM ELEMENTS ---
