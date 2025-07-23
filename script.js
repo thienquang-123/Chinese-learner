@@ -1,6 +1,5 @@
 // --- VOCABULARY LIST ---
 const vocab = [
-    /*
     { chinese: "你好", pinyin: "nǐ hǎo", english: ["hello", "hi"], vietnamese: ["xin chào", "chào bạn"] },
     { chinese: "谢谢", pinyin: "xiè xie", english: ["thank you", "thanks"], vietnamese: ["cảm ơn", "cám ơn"] },
     { chinese: "不客气", pinyin: "bú kè qi", english: ["you're welcome", "you are welcome", "not at all"], vietnamese: ["không có gì", "đừng khách sáo"] },
@@ -393,7 +392,6 @@ const vocab = [
     { chinese: "远", pinyin: "yuǎn", english: ["far"], vietnamese: ["xa/xa xôi", "viễn", "xa"] },
     { chinese: "完", pinyin: "wán", english: ["to finish", "complete"], vietnamese: ["hoàn/hết/xong", "xong", "hoàn", "hết"] },
     { chinese: "完全", pinyin: "wán quán", english: ["complete"], vietnamese: ["hoàn toàn"] },
-    */
     { chinese: "对", pinyin: "duì", english: ["correct", "toward", "to"], vietnamese: ["đúng/quay về phía/trả lời/đối", "đối", "đúng"] },
     { chinese: "对方", pinyin: "duì fāng", english: ["counterpart", "opposite side"], vietnamese: ["đối phương"] },
     { chinese: "时", pinyin: "shí", english: ["time"], vietnamese: ["thời/thì/lúc/thời gian", "thì", "thời"] },
