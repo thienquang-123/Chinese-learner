@@ -1,6 +1,5 @@
 // --- VOCABULARY LIST ---
 const vocab = [
-    /*
     { chinese: "你好", pinyin: "nǐ hǎo", english: ["hello", "hi"], vietnamese: ["xin chào", "chào bạn"] },
     { chinese: "谢谢", pinyin: "xiè xie", english: ["thank you", "thanks"], vietnamese: ["cảm ơn", "cám ơn"] },
     { chinese: "不客气", pinyin: "bú kè qi", english: ["you're welcome", "you are welcome", "not at all"], vietnamese: ["không có gì", "đừng khách sáo"] },
@@ -393,7 +392,6 @@ const vocab = [
     { chinese: "远", pinyin: "yuǎn", english: ["far"], vietnamese: ["xa/xa xôi", "viễn", "xa"] },
     { chinese: "完", pinyin: "wán", english: ["to finish", "complete"], vietnamese: ["hoàn/hết/xong", "xong", "hoàn", "hết"] },
     { chinese: "完全", pinyin: "wán quán", english: ["complete"], vietnamese: ["hoàn toàn"] },
-    */
     { chinese: "对", pinyin: "duì", english: ["correct", "toward", "to"], vietnamese: ["đúng/quay về phía/trả lời/đối", "đối", "đúng"] },
     { chinese: "对方", pinyin: "duì fāng", english: ["counterpart", "opposite side"], vietnamese: ["đối phương"] },
     { chinese: "时", pinyin: "shí", english: ["time"], vietnamese: ["thời/thì/lúc/thời gian", "thì", "thời"] },
@@ -530,6 +528,16 @@ const vocab = [
     { chinese: "第一次", pinyin: "dì yī cì", english: ["the first time"], vietnamese: ["lần đầu tiên"] },
     { chinese: "笑", pinyin: "xiào", english: ["to smile", "laugh"], vietnamese: ["cười", "tiếu"] },
     { chinese: "笑话", pinyin: "xiào huà", english: ["joke"], vietnamese: ["truyện cười"] },
+    { chinese: "贵", pinyin: "guì", english: ["expensive"], vietnamese: ["đắt/mắc", "quý", "đắt"] },
+    { chinese: "贵重", pinyin: "guì zhòng", english: ["valuable"], vietnamese: ["quý trọng", "quý giá"] },
+    { chinese: "钱", pinyin: "qián", english: ["money"], vietnamese: ["tiền"] },
+    { chinese: "钱包", pinyin: "qián bāo", english: ["wallet"], vietnamese: ["ví tiền", "ví"] },
+    { chinese: "错", pinyin: "cuò", english: ["wrong", "mistake"], vietnamese: ["sai/lỗi/nhầm", "sai", "lỗi", "thác"] },
+    { chinese: "做", pinyin: "zuò", english: ["to do", "to make"], vietnamese: ["làm", "tố"] },
+    { chinese: "便", pinyin: "biàn/pián", english: ["convenient", "cheap"], vietnamese: ["tiện/rẻ", "tiện", "rẻ"] },
+    { chinese: "方便", pinyin: "fāng biàn", english: ["convenient"], vietnamese: ["thuận tiện", "tiện lợi", "thuận lợi"] },
+    { chinese: "更", pinyin: "gèng", english: ["even more", "more"], vietnamese: ["hơn/càng", "canh", "càng", "hơn"] },
+    { chinese: "更好", pinyin: "gèng hǎo", english: ["even better"], vietnamese: ["càng tốt", "tốt hơn"] },
 
 ]
 
