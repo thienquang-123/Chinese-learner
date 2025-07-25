@@ -1,5 +1,6 @@
 // --- VOCABULARY LIST ---
 const vocab = [
+    /*
     { chinese: "你好", pinyin: "nǐ hǎo", english: ["hello", "hi"], vietnamese: ["xin chào", "chào bạn"] },
     { chinese: "谢谢", pinyin: "xiè xie", english: ["thank you", "thanks"], vietnamese: ["cảm ơn", "cám ơn"] },
     { chinese: "不客气", pinyin: "bú kè qi", english: ["you're welcome", "you are welcome", "not at all"], vietnamese: ["không có gì", "đừng khách sáo"] },
@@ -392,6 +393,7 @@ const vocab = [
     { chinese: "远", pinyin: "yuǎn", english: ["far"], vietnamese: ["xa/xa xôi", "viễn", "xa"] },
     { chinese: "完", pinyin: "wán", english: ["to finish", "complete"], vietnamese: ["hoàn/hết/xong", "xong", "hoàn", "hết"] },
     { chinese: "完全", pinyin: "wán quán", english: ["complete"], vietnamese: ["hoàn toàn"] },
+    */
     { chinese: "对", pinyin: "duì", english: ["correct", "toward", "to"], vietnamese: ["đúng/quay về phía/trả lời/đối", "đối", "đúng"] },
     { chinese: "对方", pinyin: "duì fāng", english: ["counterpart", "opposite side"], vietnamese: ["đối phương"] },
     { chinese: "时", pinyin: "shí", english: ["time"], vietnamese: ["thời/thì/lúc/thời gian", "thì", "thời"] },
@@ -497,6 +499,8 @@ const vocab = [
     { chinese: "点菜", pinyin: "diǎn cài", english: ["to order food"], vietnamese: ["gọi món"] },
     { chinese: "英", pinyin: "yīng", english: ["hero", "Britain"], vietnamese: ["anh/người tài giỏi", "anh"] },
     { chinese: "英语", pinyin: "yīng yǔ", english: ["English"], vietnamese: ["tiếng Anh", "Anh ngữ"] },
+    { chinese: "英", pinyin: "yīng", english: ["hero", "Britain/England"], vietnamese: ["anh hùng", "Anh (quốc)"] },
+    { chinese: "英语", pinyin: "yīng yǔ", english: ["English (language)"], vietnamese: ["tiếng Anh"] },
     { chinese: "坐", pinyin: "zuò", english: ["to sit", "to travel by"], vietnamese: ["ngồi", "toạ"] },
     { chinese: "再", pinyin: "zài", english: ["again"], vietnamese: ["lại/lần nữa", "tái", "lại"] },
     { chinese: "重", pinyin: "zhòng", english: ["heavy", "weight"], vietnamese: ["nặng/trọng", "trọng", "nặng"] },
@@ -509,6 +513,24 @@ const vocab = [
     { chinese: "当", pinyin: "dāng", english: ["to be", "to work as"], vietnamese: ["đương (đảm đương/đương chức)", "đương"] },
     { chinese: "当心", pinyin: "dāng xīn", english: ["be careful"], vietnamese: ["cẩn thận", "coi chừng"] },
     { chinese: "当时", pinyin: "dāng shí", english: ["at that time"], vietnamese: ["lúc đó/khi đó", "đương thời", "khi đó", "lúc đó"] },
+    { chinese: "事", pinyin: "shì", english: ["thing", "matter", "trouble"], vietnamese: ["việc/sự việc", "sự", "việc"] },
+    { chinese: "喜事", pinyin: "xǐ shì", english: ["happy event"], vietnamese: ["hỷ sự", "sự kiện vui"] },
+    { chinese: "行", pinyin: "xíng", english: ["okay", "go", "walk"], vietnamese: ["hành/hàng/hạnh/đi", "hành"] },
+    { chinese: "样", pinyin: "yàng", english: ["type", "kind", "model", "sample"], vietnamese: ["loại/dạng/kiểu/mẫu", "loại", "dạng"] },
+    { chinese: "一样", pinyin: "yí yàng", english: ["the same"], vietnamese: ["giống nhau"] },
+    { chinese: "美", pinyin: "měi", english: ["beautiful"], vietnamese: ["đẹp", "mỹ", "mĩ"] },
+    { chinese: "美国", pinyin: "Měi guó", english: ["America", "USA"], vietnamese: ["nước Mỹ", "Hoa Kỳ", "Mỹ"] },
+    { chinese: "美发店", pinyin: "měi fà diàn", english: ["hair salon"], vietnamese: ["tiệm làm tóc"] },
+    { chinese: "爱美", pinyin: "ài měi", english: ["to love beauty", "like to be well-groomed"], vietnamese: ["ưa làm đẹp", "thích cái đẹp"] },
+    { chinese: "差", pinyin: "chà", english: ["poor", "bad", "to be short of"], vietnamese: ["kém/tệ/thiếu", "sai", "kém", "tệ"] },
+    { chinese: "差一点儿", pinyin: "chà yì diǎnr", english: ["almost", "nearly"], vietnamese: ["suýt", "gần như"] },
+    { chinese: "等", pinyin: "děng", english: ["to wait", "class", "level"], vietnamese: ["đợi/hạng/cấp", "đẳng", "đợi"] },
+    { chinese: "平等", pinyin: "píng děng", english: ["equality"], vietnamese: ["bình đẳng"] },
+    { chinese: "第", pinyin: "dì", english: ["ordinal number prefix"], vietnamese: ["thứ/thứ bậc", "thứ", "đệ"] },
+    { chinese: "第一次", pinyin: "dì yī cì", english: ["the first time"], vietnamese: ["lần đầu tiên"] },
+    { chinese: "笑", pinyin: "xiào", english: ["to smile", "laugh"], vietnamese: ["cười", "tiếu"] },
+    { chinese: "笑话", pinyin: "xiào huà", english: ["joke"], vietnamese: ["truyện cười"] },
+
 ]
 
 // --- DOM ELEMENTS ---
