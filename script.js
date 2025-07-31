@@ -594,6 +594,22 @@ const vocab = [
     { chinese: "应该", pinyin: "yīng gāi", english: ["should", "ought to"], vietnamese: ["nên", "đáng lẽ"] },
     { chinese: "应该的", pinyin: "yīng gāi de", english: ["you're welcome", "no problem"], vietnamese: ["không có gì", "đáng mà"] },
     { chinese: "请", pinyin: "qǐng", english: ["please", "invite", "request"], vietnamese: ["xin/mời", "xin", "thỉnh"] },
+    { chinese: "让", pinyin: "ràng", english: ["to let", "to allow", "to make"], vietnamese: ["để/cho phép/khiến", "nhượng", "bảo", "bắt"] },
+    { chinese: "身", pinyin: "shēn", english: ["body"], vietnamese: ["thân"] },
+    { chinese: "身体", pinyin: "shēn tǐ", english: ["body"], vietnamese: ["thân thể"] },
+    { chinese: "身边", pinyin: "shēn biān", english: ["at my side"], vietnamese: ["bên cạnh/bên mình", "bên cạnh", "bên mình"] },
+    { chinese: "谢", pinyin: "xiè", english: ["to thank"], vietnamese: ["cảm ơn", "tạ"] },
+    { chinese: "给", pinyin: "gěi", english: ["to give"], vietnamese: ["cho/tặng/phát", "cho", "tặng", "cấp"] },
+    { chinese: "知", pinyin: "zhī", english: ["to know"], vietnamese: ["biết", "trí"] },
+    { chinese: "知识", pinyin: "zhī shi", english: ["knowledge"], vietnamese: ["tri thức", "kiến thức"] },
+    { chinese: "候", pinyin: "hòu", english: ["time", "to wait", "condition"], vietnamese: ["thời gian/chờ đợi/tình trạng", "hậu"] },
+    { chinese: "等候", pinyin: "děng hòu", english: ["to wait"], vietnamese: ["đợi", "chờ đợi"] },
+    { chinese: "气候", pinyin: "qì hòu", english: ["climate"], vietnamese: ["khí hậu"] },
+    { chinese: "慢", pinyin: "màn", english: ["slow"], vietnamese: ["chậm", "mạn"] },
+    { chinese: "快", pinyin: "kuài", english: ["fast", "quick"], vietnamese: ["nhanh", "khoái"] },
+    { chinese: "快乐", pinyin: "kuài lè", english: ["happy"], vietnamese: ["vui vẻ", "hạnh phúc"] },
+    { chinese: "块", pinyin: "kuài", english: ["piece", "chunk", "measure word"], vietnamese: ["miếng/cục/khối", "khối", "miếng", "cục"] },
+    { chinese: "冰块", pinyin: "bīng kuài", english: ["ice cube"], vietnamese: ["cục đá"] }
 ]
 
 // --- DOM ELEMENTS ---
