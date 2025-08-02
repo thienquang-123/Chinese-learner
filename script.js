@@ -609,7 +609,29 @@ const vocab = [
     { chinese: "快", pinyin: "kuài", english: ["fast", "quick"], vietnamese: ["nhanh", "khoái"] },
     { chinese: "快乐", pinyin: "kuài lè", english: ["happy"], vietnamese: ["vui vẻ", "hạnh phúc"] },
     { chinese: "块", pinyin: "kuài", english: ["piece", "chunk", "measure word"], vietnamese: ["miếng/cục/khối", "khối", "miếng", "cục"] },
-    { chinese: "冰块", pinyin: "bīng kuài", english: ["ice cube"], vietnamese: ["cục đá"] }
+    { chinese: "冰块", pinyin: "bīng kuài", english: ["ice cube"], vietnamese: ["cục đá"] },
+    { chinese: "思", pinyin: "sī", english: ["to think"], vietnamese: ["nghĩ/nhớ/mong", "nghĩ", "tư", "tứ"] },
+    { chinese: "星", pinyin: "xīng", english: ["star", "planet"], vietnamese: ["ngôi sao/hành tinh", "tinh", "ngôi sao"] },
+    { chinese: "星期", pinyin: "xīng qī", english: ["week"], vietnamese: ["tuần"] },
+    { chinese: "球", pinyin: "qiú", english: ["ball", "sphere"], vietnamese: ["quả bóng/hình cầu", "cầu"] },
+    { chinese: "地球", pinyin: "dì qiú", english: ["the globe", "Earth"], vietnamese: ["địa cầu", "Trái Đất"] },
+    { chinese: "球场", pinyin: "qiú chǎng", english: ["sports ground", "ball court"], vietnamese: ["sân thể thao", "sân bóng"] },
+    { chinese: "饭", pinyin: "fàn", english: ["cooked rice", "food", "meal"], vietnamese: ["cơm/bữa ăn", "cơm", "phạn"] },
+    { chinese: "做饭", pinyin: "zuò fàn", english: ["to cook"], vietnamese: ["nấu ăn", "nấu cơm"] },
+    { chinese: "饭店", pinyin: "fàn diàn", english: ["restaurant", "hotel"], vietnamese: ["nhà hàng"] },
+    { chinese: "炒饭", pinyin: "chǎo fàn", english: ["fried rice"], vietnamese: ["cơm chiên"] },
+    { chinese: "饿", pinyin: "è", english: ["hungry"], vietnamese: ["đói", "ngạ"] },
+    { chinese: "病", pinyin: "bìng", english: ["illness", "sickness"], vietnamese: ["bệnh"] },
+    { chinese: "病人", pinyin: "bìng rén", english: ["patient"], vietnamese: ["bệnh nhân"] },
+    { chinese: "得病", pinyin: "dé bìng", english: ["to fall ill"], vietnamese: ["bị bệnh"] },
+    { chinese: "看", pinyin: "kàn", english: ["to look", "to see", "to read"], vietnamese: ["nhìn/xem/đọc", "xem", "nhìn", "khán"] },
+    { chinese: "看病", pinyin: "kàn bìng", english: ["to see a doctor"], vietnamese: ["khám bệnh", "đi khám"] },
+    { chinese: "想", pinyin: "xiǎng", english: ["to think", "to want", "to miss"], vietnamese: ["nghĩ", "muốn", "nhớ"] },
+    { chinese: "意", pinyin: "yì", english: ["meaning", "idea"], vietnamese: ["ý/ý nghĩ", "ý"] },
+    { chinese: "意思", pinyin: "yì si", english: ["meaning"], vietnamese: ["ý nghĩa"] },
+    { chinese: "意见", pinyin: "yì jiàn", english: ["opinion", "view"], vietnamese: ["ý kiến"] },
+    { chinese: "生意", pinyin: "shēng yi", english: ["business"], vietnamese: ["kinh doanh", "làm ăn", "buôn bán"] },
+
 ]
 
 // --- DOM ELEMENTS ---
