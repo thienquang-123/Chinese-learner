@@ -498,7 +498,7 @@ const vocab = [
     { chinese: "英", pinyin: "yīng", english: ["hero", "Britain"], vietnamese: ["anh/người tài giỏi", "anh"] },
     { chinese: "英语", pinyin: "yīng yǔ", english: ["English"], vietnamese: ["tiếng Anh", "Anh ngữ"] },
     { chinese: "英", pinyin: "yīng", english: ["hero", "Britain/England"], vietnamese: ["anh", "Anh (quốc)"] },
-    { chinese: "英语", pinyin: "yīng yǔ", english: ["English (language)"], vietnamese: ["tiếng Anh"] },
+    { chinese: "英语", pinyin: "yīng yǔ", english: ["English (language)"], vietnamese: ["tiếng Anh", "anh ngữ"] },
     { chinese: "坐", pinyin: "zuò", english: ["to sit", "to travel by"], vietnamese: ["ngồi", "toạ"] },
     { chinese: "再", pinyin: "zài", english: ["again"], vietnamese: ["lại/lần nữa", "tái", "lại"] },
     { chinese: "重", pinyin: "zhòng", english: ["heavy", "weight"], vietnamese: ["nặng/trọng", "trọng", "nặng"] },
@@ -567,7 +567,7 @@ const vocab = [
     { chinese: "重要", pinyin: "zhòng yào", english: ["important"], vietnamese: ["quan trọng", "trọng yếu"] },
     { chinese: "要是", pinyin: "yào shì", english: ["if"], vietnamese: ["nếu"] },
     { chinese: "票", pinyin: "piào", english: ["ticket"], vietnamese: ["vé", "phiếu"] },
-    { chinese: "发票", pinyin: "fā piào", english: ["receipt", "invoice"], vietnamese: ["hóa đơn"] },
+    { chinese: "发票", pinyin: "fā piào", english: ["receipt", "invoice"], vietnamese: ["hoá đơn"] },
     { chinese: "漂", pinyin: "piào", english: ["pretty"], vietnamese: ["đẹp"] },
     { chinese: "前", pinyin: "qián", english: ["before", "ago", "front"], vietnamese: ["trước/phía trước", "trước", "tiền"] },
     { chinese: "能", pinyin: "néng", english: ["can", "able to"], vietnamese: ["có thể", "năng"] },
@@ -600,7 +600,7 @@ const vocab = [
     { chinese: "身边", pinyin: "shēn biān", english: ["at my side"], vietnamese: ["bên cạnh/bên mình", "bên cạnh", "bên mình"] },
     { chinese: "谢", pinyin: "xiè", english: ["to thank"], vietnamese: ["cảm ơn", "tạ"] },
     { chinese: "给", pinyin: "gěi", english: ["to give"], vietnamese: ["cho/tặng/phát", "cho", "tặng", "cấp"] },
-    { chinese: "知", pinyin: "zhī", english: ["to know"], vietnamese: ["biết", "trí"] },
+    { chinese: "知", pinyin: "zhī", english: ["to know"], vietnamese: ["biết", "trí", "tri"] },
     { chinese: "知识", pinyin: "zhī shi", english: ["knowledge"], vietnamese: ["tri thức", "kiến thức"] },
     { chinese: "候", pinyin: "hòu", english: ["time", "to wait", "condition"], vietnamese: ["thời gian/chờ đợi/tình trạng", "hậu"] },
     { chinese: "等候", pinyin: "děng hòu", english: ["to wait"], vietnamese: ["đợi", "chờ đợi"] },
@@ -827,4 +827,5 @@ switchModeBtn.addEventListener('click', switchMode);
 
 // --- INITIALIZE ---
 startQuiz();
+
 
