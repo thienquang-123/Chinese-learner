@@ -626,7 +626,7 @@ const vocab = [
     { chinese: "得病", pinyin: "dé bìng", english: ["to fall ill"], vietnamese: ["bị bệnh"] },
     { chinese: "看", pinyin: "kàn", english: ["to look", "to see", "to read"], vietnamese: ["nhìn/xem/đọc", "xem", "nhìn", "khán"] },
     { chinese: "看病", pinyin: "kàn bìng", english: ["to see a doctor"], vietnamese: ["khám bệnh", "đi khám"] },
-    { chinese: "想", pinyin: "xiǎng", english: ["to think", "to want", "to miss"], vietnamese: ["nghĩ/muốn/nhớ"， "tưởng", "muốn", "nhớ"] },
+    { chinese: "想", pinyin: "xiǎng", english: ["to think", "to want", "to miss"], vietnamese: ["nghĩ/muốn/nhớ", "tưởng", "muốn", "nhớ"] },
     { chinese: "意", pinyin: "yì", english: ["meaning", "idea"], vietnamese: ["ý/ý nghĩ", "ý"] },
     { chinese: "意思", pinyin: "yì si", english: ["meaning"], vietnamese: ["ý nghĩa"] },
     { chinese: "意见", pinyin: "yì jiàn", english: ["opinion", "view"], vietnamese: ["ý kiến"] },
@@ -827,6 +827,7 @@ switchModeBtn.addEventListener('click', switchMode);
 
 // --- INITIALIZE ---
 startQuiz();
+
 
 
 
