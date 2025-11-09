@@ -1364,6 +1364,26 @@ const vocab = [
     { chinese: "游戏", pinyin: "yóu xì", english: ["game"], vietnamese: ["trò chơi"] },
     { chinese: "游行", pinyin: "yóu xíng", english: ["parade", "march"], vietnamese: ["diễu hành"] },
     { chinese: "游泳", pinyin: "yóu yǒng", english: ["to swim"], vietnamese: ["bơi lội"] },
+    { chinese: "然", pinyin: "rán", english: ["thus", "so", "-ly suffix"], vietnamese: ["nhiên", "như vậy"] },
+    { chinese: "大自然", pinyin: "dà zì rán", english: ["nature", "the natural world"], vietnamese: ["thiên nhiên", "tự nhiên"] },
+    { chinese: "虽然", pinyin: "suī rán", english: ["although", "though"], vietnamese: ["tuy rằng", "mặc dù", "tuy nhiên"] },
+    { chinese: "然后", pinyin: "rán hòu", english: ["then", "afterwards"], vietnamese: ["sau đó", "rồi thì", "rồi"] },
+    { chinese: "突然", pinyin: "tū rán", english: ["suddenly", "abruptly"], vietnamese: ["đột nhiên", "bỗng nhiên"] },
+    { chinese: "照", pinyin: "zhào", english: ["according to", "to shine", "photo"], vietnamese: ["chiếu", "theo", "chụp (ảnh)"] },
+    { chinese: "护照", pinyin: "hù zhào", english: ["passport"], vietnamese: ["hộ chiếu"] },
+    { chinese: "照顾", pinyin: "zhào gù", english: ["to take care of", "to look after"], vietnamese: ["chăm sóc", "trông nom", "chiếu cố"] },
+    { chinese: "照常", pinyin: "zhào cháng", english: ["as usual"], vietnamese: ["như thường lệ", "như thường"] },
+    { chinese: "黑", pinyin: "hēi", english: ["black", "dark"], vietnamese: ["đen", "tối", "hắc"] },
+    { chinese: "而", pinyin: "ér", english: ["but", "yet", "and"], vietnamese: ["mà", "nhưng"] },
+    { chinese: "不是...而是...", pinyin: "bú shì... ér shì...", english: ["it's not... but rather..."], vietnamese: ["không phải... mà là... "] },
+    { chinese: "不但...而且...", pinyin: "bù dàn... ér qiě...", english: ["not only... but also..."], vietnamese: ["không chỉ... mà còn..."] },
+    { chinese: "雪", pinyin: "xuě", english: ["snow"], vietnamese: ["tuyết"] },
+    { chinese: "雪花", pinyin: "xuě huā", english: ["snowflake"], vietnamese: ["bông tuyết"] },
+    { chinese: "雪人", pinyin: "xuě rén", english: ["snowman"], vietnamese: ["người tuyết"] },
+    { chinese: "扫", pinyin: "sǎo", english: ["to sweep"], vietnamese: ["quét", "tảo"] },
+    { chinese: "打扫", pinyin: "dǎ sǎo", english: ["to clean", "to sweep"], vietnamese: ["quét dọn", "dọn dẹp"] },
+    { chinese: "扫兴", pinyin: "sǎo xìng", english: ["to have one's spirits dampened", "buzzkill"], vietnamese: ["mất hứng", "cụt hứng"] },
+
     ]
 
 export { vocab };
